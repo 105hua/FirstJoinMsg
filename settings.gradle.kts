@@ -1,1 +1,1 @@
-rootProject.name = "PaperPluginTemplateKotlin"
+rootProject.name = "FirstJoinMsg"
